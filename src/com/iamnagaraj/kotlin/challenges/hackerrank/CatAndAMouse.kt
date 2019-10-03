@@ -25,8 +25,6 @@ fun main(args: Array<String>) {
 
         val z = xyz[2].trim().toInt()
 
-        val result = catAndMouse(x, y, z)
-
-        println(result)
+        println(catAndMouse(x, y, z))
     }
 }
