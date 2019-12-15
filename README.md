@@ -34,5 +34,4 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 Visit - www.hackerrank.com
 
 # Author
-Name: Nagaraj Alagusundaram
-Website: https://iamnagaraj.com
+Name: Nagaraj Alagusundaram (https://iamnagaraj.com)
