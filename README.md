@@ -32,3 +32,7 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 * Very Big Sum
 
 Visit - www.hackerrank.com
+
+# Author
+Name: Nagaraj Alagusundaram
+Website: https://iamnagaraj.com
