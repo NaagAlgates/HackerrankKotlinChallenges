@@ -15,10 +15,11 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 * Counting Valley
 * Day of the programmer
 * Designer PDF Viewer
-* Diagnol Difference
+* Diagonal Difference
 * Divisible Sum Pair
 * Drawingbook 
-* EqualizrArray
+* EqualizeArray
+* [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 * Grading Students
 * Hurdle Race
 * Migratory Birds
