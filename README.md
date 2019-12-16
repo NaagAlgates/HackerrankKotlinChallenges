@@ -4,6 +4,7 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 
 # Completed Challenges
 
+* [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)
 * Between Two Sets
 * Birthday Cake Candles
 * Bon Appetit
