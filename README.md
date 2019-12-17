@@ -19,6 +19,7 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 * Diagonal Difference
 * Divisible Sum Pair
 * Drawingbook 
+* [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
 * EqualizeArray
 * [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 * Grading Students
