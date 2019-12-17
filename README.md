@@ -5,6 +5,7 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 # Completed Challenges
 
 * [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)
+* [Beautiful Days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 * Between Two Sets
 * Birthday Cake Candles
 * Bon Appetit
