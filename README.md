@@ -34,6 +34,7 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 * Time Conversion
 * Utopian Tree
 * Very Big Sum
+* [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
 
 Visit - www.hackerrank.com
 
