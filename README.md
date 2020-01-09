@@ -1,6 +1,8 @@
 # Hackerrank Kotlin Challenges
 
-This Repo will hold the solutions for Hackerrank questions using Kotlin language
+This Repo will hold the solutions for Hackerrank questions using Kotlin language.
+
+Please let me know if you have better solutions so that I can also learn. 
 
 # Completed Challenges
 
@@ -28,6 +30,7 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 * MinMax Sum
 * Picking Numbers
 * PlusMinus
+* [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 * Simple Array Sum
 * SockMerchant
 * Solve ME First
@@ -39,4 +42,6 @@ This Repo will hold the solutions for Hackerrank questions using Kotlin language
 Visit - www.hackerrank.com
 
 # Author
-Name: Nagaraj Alagusundaram (https://iamnagaraj.com)
+[Nagaraj Alagusundaram](https://iamnagaraj.com)
+
+[Website](https://iamnagaraj.com)
