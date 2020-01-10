@@ -13,6 +13,7 @@ Please let me know if you have better solutions so that I can also learn.
 * Bon Appetit
 * Breaking the Record
 * Cat and a Mouse
+* [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) - Easy
 * Climbing the ladder
 * Compare Triplets
 * Counting Valley
