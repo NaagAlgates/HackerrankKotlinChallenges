@@ -32,6 +32,7 @@ Please let me know if you have better solutions so that I can also learn.
 * Picking Numbers
 * PlusMinus
 * [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+* [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) - Easy
 * Simple Array Sum
 * SockMerchant
 * Solve ME First
