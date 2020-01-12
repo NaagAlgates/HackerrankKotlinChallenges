@@ -27,6 +27,7 @@ Please let me know if you have better solutions so that I can also learn.
 * [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 * Grading Students
 * Hurdle Race
+* [Jumping On The Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) - Easy
 * Migratory Birds
 * MinMax Sum
 * Picking Numbers
