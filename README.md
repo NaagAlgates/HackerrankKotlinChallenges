@@ -25,6 +25,7 @@ Please let me know if you have better solutions so that I can also learn.
 * [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
 * EqualizeArray
 * [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
+* [Extra Digits](https://www.hackerrank.com/challenges/find-digits/problem) - Easy
 * Grading Students
 * Hurdle Race
 * [Jumping On The Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) - Easy
