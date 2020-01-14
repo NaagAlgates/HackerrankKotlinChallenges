@@ -7,6 +7,7 @@ Please let me know if you have better solutions so that I can also learn.
 # Completed Challenges
 
 * [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)
+* [Append And Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) - Easy
 * [Beautiful Days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 * Between Two Sets
 * Birthday Cake Candles
