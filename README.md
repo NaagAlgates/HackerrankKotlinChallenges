@@ -30,6 +30,7 @@ Please let me know if you have better solutions so that I can also learn.
 * Grading Students
 * Hurdle Race
 * [Jumping On The Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) - Easy
+* [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) - Easy
 * Migratory Birds
 * MinMax Sum
 * Picking Numbers
