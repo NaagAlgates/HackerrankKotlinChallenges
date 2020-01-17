@@ -18,6 +18,7 @@ Please let me know if you have better solutions so that I can also learn.
 * Climbing the ladder
 * Compare Triplets
 * Counting Valley
+* [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) - Easy
 * Day of the programmer
 * Designer PDF Viewer
 * Diagonal Difference
