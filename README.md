@@ -52,4 +52,4 @@ Visit - www.hackerrank.com
 # Author
 [Nagaraj Alagusundaram](https://iamnagaraj.com)
 
-[Website](https://iamnagaraj.com)
+[Website](www.iamnagaraj.com)
