@@ -46,10 +46,9 @@ Please let me know if you have better solutions so that I can also learn.
 * Utopian Tree
 * Very Big Sum
 * [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
+* [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
 
 Visit - www.hackerrank.com
 
 # Author
-[Nagaraj Alagusundaram](https://iamnagaraj.com)
-
-[Website](www.iamnagaraj.com)
+[Nagaraj Alagusundaram](https://www.nagaraj.com.au)
